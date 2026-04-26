@@ -1,6 +1,5 @@
 # github-sandbox
 .
-.
 download google-chrome from aur
 # 📥 Download Files via Commit Message
 
